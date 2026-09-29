@@ -1,0 +1,8 @@
+DatabaseSoftwareEngineering.bacpac
+
+**/node_modules/
+**/dist/
+
+backend/.env
+backend/uploads/cvs/*
+!backend/uploads/cvs/.gitkeep
