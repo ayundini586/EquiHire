@@ -487,6 +487,23 @@ Implemented and tested functionality includes:
 
 ---
 
+## My Role
+
+**Testing, Debugging & Integration Support**
+
+My contribution focused on validating the end-to-end recruitment workflow and resolving integration issues across the frontend, backend, and database.
+
+Key contributions:
+- Performed end-to-end testing across Job Seeker, Company, and Admin workflows
+- Fixed profile update request handling between the React frontend and Express backend
+- Fixed CV approval status handling in the admin workflow
+- Resolved local CV upload directory issues
+- Tested CV upload, approval, job application, application tracking, and applicant pipeline flows
+- Verified job creation and approval flow between Company and Admin roles
+- Assisted with integration debugging involving React, Express, and SQL Server
+
+---
+
 ## Contributors
 
 Developed as a group project for the Software Engineering course.
